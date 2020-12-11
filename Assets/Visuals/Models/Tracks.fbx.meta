@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 890a678dd13454643b76ce050d2a8ef1
+timeCreated: 1449281109
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Track_CurveLeft_Medium_01_GEO
+    100002: Track_CurveRight_Medium_01_GEO
+    100004: Track_Hill_Medium_01_GEO
+    100006: Track_Hill_Short_01_GEO
+    100008: Track_Slope_Medium_01_GEO
+    100010: Track_Slope_Short_01_GEO
+    100012: Track_Straight_Medium_01_GEO
+    100014: Track_Straight_Short_01_GEO
+    100016: Track_TwistLeft_Long_01_GEO
+    100018: Track_TwistRight_Long_01_GEO
+    100020: //RootNode
+    400000: Track_CurveLeft_Medium_01_GEO
+    400002: Track_CurveRight_Medium_01_GEO
+    400004: Track_Hill_Medium_01_GEO
+    400006: Track_Hill_Short_01_GEO
+    400008: Track_Slope_Medium_01_GEO
+    400010: Track_Slope_Short_01_GEO
+    400012: Track_Straight_Medium_01_GEO
+    400014: Track_Straight_Short_01_GEO
+    400016: Track_TwistLeft_Long_01_GEO
+    400018: Track_TwistRight_Long_01_GEO
+    400020: //RootNode
+    2300000: Track_CurveLeft_Medium_01_GEO
+    2300002: Track_CurveRight_Medium_01_GEO
+    2300004: Track_Hill_Medium_01_GEO
+    2300006: Track_Hill_Short_01_GEO
+    2300008: Track_Slope_Medium_01_GEO
+    2300010: Track_Slope_Short_01_GEO
+    2300012: Track_Straight_Medium_01_GEO
+    2300014: Track_Straight_Short_01_GEO
+    2300016: Track_TwistLeft_Long_01_GEO
+    2300018: Track_TwistRight_Long_01_GEO
+    3300000: Track_CurveLeft_Medium_01_GEO
+    3300002: Track_CurveRight_Medium_01_GEO
+    3300004: Track_Hill_Medium_01_GEO
+    3300006: Track_Hill_Short_01_GEO
+    3300008: Track_Slope_Medium_01_GEO
+    3300010: Track_Slope_Short_01_GEO
+    3300012: Track_Straight_Medium_01_GEO
+    3300014: Track_Straight_Short_01_GEO
+    3300016: Track_TwistLeft_Long_01_GEO
+    3300018: Track_TwistRight_Long_01_GEO
+    4300000: Track_Straight_Short_01_GEO
+    4300002: Track_Hill_Short_01_GEO
+    4300004: Track_CurveLeft_Medium_01_GEO
+    4300006: Track_Slope_Medium_01_GEO
+    4300008: Track_CurveRight_Medium_01_GEO
+    4300010: Track_Slope_Short_01_GEO
+    4300012: Track_Hill_Medium_01_GEO
+    4300014: Track_TwistLeft_Long_01_GEO
+    4300016: Track_TwistRight_Long_01_GEO
+    4300018: Track_Straight_Medium_01_GEO
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
