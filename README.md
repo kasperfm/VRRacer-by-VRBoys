@@ -18,5 +18,7 @@ None of the audio files were made by us, but kindly borrowed from other games.
 
 We got inspired by Star Wars podracer and the Wipeout games for Playstation, when we made this game.
 
+
 # Notes
-As you can see there is *a lot* of unused code in this Unity project. The only excuse is.. well.. we had 48 hours in total to come up with a cool game idea, then make and test the game. So we had to borrow code from around the interwebz too.
+- As you can see there is *a lot* of unused code in this Unity project. The only excuse is.. well.. we had 48 hours in total to come up with a cool game idea, then make and test the game. So we had to borrow code from around the interwebz too.
+- The "VRBoys" tag, were our team name for the gamejam ;-)
