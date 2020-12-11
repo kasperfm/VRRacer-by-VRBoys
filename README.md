@@ -8,7 +8,7 @@ The gameplay is simple:
 - The game speed increases automaticly when you race the track.
 - If you die, you will restart at the beginning of the game.
 
-The game project is made for Google Cardboard and ment to played on Android devices, and with a Bluetooth controller in your hands.
+The game project is made in Unity3D (now updated to version 2019.4.0f1) for Google Cardboard and can be played on Android devices, with a Bluetooth controller in your hands.
 
 When we made the game back in 2015, we used a Samsung S7 phone, a VR kit made of cardboard and rubberbands, and a cheap gamepad from China, connected to the phone using Bluetooth.
 
